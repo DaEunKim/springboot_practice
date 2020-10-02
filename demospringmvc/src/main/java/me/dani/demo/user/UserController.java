@@ -17,4 +17,5 @@ public class UserController {
     public User create(@RequestBody User user){
         return user;
     }
+
 }
